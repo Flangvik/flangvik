@@ -1,7 +1,4 @@
 
-
-<!--
-**Flangvik/flangvik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-![Yes, this is dog](/dank.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/9eLbjOcGOpmY8/giphy.gif">
+</p>
